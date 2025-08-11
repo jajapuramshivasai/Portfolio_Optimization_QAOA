@@ -1,7 +1,7 @@
 # Portfolio_Optimization_QAOA
 
 ## Overview
-Prototype for solving a binary portfolio optimization via quantum algorithms (QAOA) and classical validation.
+This project is a prototype for solving a binary portfolio optimization via quantum algorithms (QAOA) .
 
 ## Approach
 1. Formulate portfolio selection as a binary quadratic problem with linear constraints.  
